@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "ffff",
+    "coordinates": {
+      "x": 4.0,
+      "y": -45
+    },
+    "creationDate": "2026-06-13T04:50:39.738344+03:00[Europe/Moscow]",
+    "age": 43,
+    "description": "fdgsdfs",
+    "wingspan": 43
+  },
+  {
+    "id": 2,
+    "name": "fgewrgwerg",
+    "coordinates": {
+      "x": 34.0,
+      "y": -453234
+    },
+    "creationDate": "2026-06-13T04:51:04.625608+03:00[Europe/Moscow]",
+    "age": 49,
+    "description": "fdgsggdfd",
+    "wingspan": 43253
+  },
+  {
+    "id": 3,
+    "name": "sdg",
+    "coordinates": {
+      "x": 2345.0,
+      "y": -25463456
+    },
+    "creationDate": "2026-06-13T04:51:57.968631+03:00[Europe/Moscow]",
+    "age": 67,
+    "description": "fdsgd",
+    "wingspan": 456
+  }
+]

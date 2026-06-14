@@ -1,0 +1,1170 @@
+июн. 02, 2026 6:05:42 PM myapp.ServerMainKt main
+INFO: ===== Запуск серверного приложения =====
+июн. 02, 2026 6:05:42 PM collection.CollectionManager add
+FINE: Добавлен дракон: dgsdfg, id=2
+июн. 02, 2026 6:05:42 PM collection.CollectionManager add
+FINE: Добавлен дракон: vika, id=4
+июн. 02, 2026 6:05:42 PM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 2, следующий ID: 5
+июн. 02, 2026 6:05:42 PM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1234
+июн. 02, 2026 6:05:42 PM server.Server start
+INFO: Сервер запущен на порту 1234 и готов принимать соединения
+июн. 02, 2026 6:05:55 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:51166
+июн. 02, 2026 6:05:55 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 02, 2026 6:05:55 PM server.Server processData
+INFO: Получен запрос: help (176 байт)
+июн. 02, 2026 6:05:55 PM server.Server processRequest
+INFO: Команда 'help' выполнена, success=true
+июн. 02, 2026 6:05:55 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1441 байт)
+июн. 02, 2026 6:05:55 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:51166 отключился
+июн. 02, 2026 6:21:55 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:53418
+июн. 02, 2026 6:21:55 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 02, 2026 6:21:55 PM server.Server processData
+INFO: Получен запрос: help (176 байт)
+июн. 02, 2026 6:21:55 PM server.Server processRequest
+INFO: Команда 'help' выполнена, success=true
+июн. 02, 2026 6:21:55 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1441 байт)
+июн. 02, 2026 6:21:55 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:53418 отключился
+июн. 02, 2026 6:28:05 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:54362
+июн. 02, 2026 6:28:05 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 02, 2026 6:28:05 PM server.Server processData
+INFO: Получен запрос: help (176 байт)
+июн. 02, 2026 6:28:05 PM server.Server processRequest
+INFO: Команда 'help' выполнена, success=true
+июн. 02, 2026 6:28:05 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1441 байт)
+июн. 02, 2026 6:28:05 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:54362 отключился
+июн. 02, 2026 6:28:55 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:54504
+июн. 02, 2026 6:28:55 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 02, 2026 6:28:55 PM server.Server processData
+INFO: Получен запрос: show (176 байт)
+июн. 02, 2026 6:28:55 PM server.Server processRequest
+INFO: Команда 'show' выполнена, success=true
+июн. 02, 2026 6:28:55 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (815 байт)
+июн. 02, 2026 6:28:55 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:54504 отключился
+июн. 02, 2026 6:33:12 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55123
+июн. 02, 2026 6:33:12 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 02, 2026 6:33:12 PM server.Server processData
+INFO: Получен запрос: help (176 байт)
+июн. 02, 2026 6:33:12 PM server.Server processRequest
+INFO: Команда 'help' выполнена, success=true
+июн. 02, 2026 6:33:12 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1441 байт)
+июн. 02, 2026 6:33:12 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55123 отключился
+июн. 02, 2026 6:33:25 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55152
+июн. 02, 2026 6:33:25 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 02, 2026 6:33:25 PM server.Server processData
+INFO: Получен запрос: show (176 байт)
+июн. 02, 2026 6:33:25 PM server.Server processRequest
+INFO: Команда 'show' выполнена, success=true
+июн. 02, 2026 6:33:25 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (815 байт)
+июн. 02, 2026 6:33:25 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55152 отключился
+июн. 02, 2026 6:33:54 PM myapp.ServerMainKt main$lambda$2
+INFO: Завершение работы. Автосохранение коллекции...
+июн. 05, 2026 4:05:37 PM myapp.ServerMainKt main
+INFO: Запуск серверного приложения
+июн. 05, 2026 4:05:37 PM collection.CollectionManager add
+FINE: Добавлен дракон: dgsdfg, id=2
+июн. 05, 2026 4:05:37 PM collection.CollectionManager add
+FINE: Добавлен дракон: vika, id=4
+июн. 05, 2026 4:05:37 PM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 2, следующий ID: 5
+июн. 05, 2026 4:05:37 PM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1234
+июн. 05, 2026 4:05:37 PM server.Server start
+INFO: Сервер запущен на порту 1234 и готов принимать соединения
+июн. 05, 2026 4:06:39 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:54544
+июн. 05, 2026 4:06:39 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:06:39 PM server.Server processData
+INFO: Получен запрос: help (176 байт)
+июн. 05, 2026 4:06:39 PM server.Server processRequest
+INFO: Команда 'help' выполнена, success=true
+июн. 05, 2026 4:06:39 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1441 байт)
+июн. 05, 2026 4:06:39 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:54544 отключился
+июн. 05, 2026 4:06:54 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:54578
+июн. 05, 2026 4:06:54 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:06:54 PM server.Server processData
+INFO: Получен запрос: show (176 байт)
+июн. 05, 2026 4:06:54 PM server.Server processRequest
+INFO: Команда 'show' выполнена, success=true
+июн. 05, 2026 4:06:54 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (815 байт)
+июн. 05, 2026 4:06:54 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:54578 отключился
+июн. 05, 2026 4:07:42 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:54680
+июн. 05, 2026 4:07:42 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:07:42 PM server.Server processData
+INFO: Получен запрос: add (760 байт)
+июн. 05, 2026 4:07:42 PM collection.CollectionManager add
+FINE: Добавлен дракон: jsakfjas, id=5
+июн. 05, 2026 4:07:42 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 4:07:42 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 4:07:42 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:54680 отключился
+июн. 05, 2026 4:07:48 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:54694
+июн. 05, 2026 4:07:48 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:07:48 PM server.Server processData
+INFO: Получен запрос: show (176 байт)
+июн. 05, 2026 4:07:48 PM server.Server processRequest
+INFO: Команда 'show' выполнена, success=true
+июн. 05, 2026 4:07:48 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1109 байт)
+июн. 05, 2026 4:07:48 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:54694 отключился
+июн. 05, 2026 4:09:33 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:54924
+июн. 05, 2026 4:09:33 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:09:33 PM server.Server processData
+INFO: Получен запрос: add (554 байт)
+июн. 05, 2026 4:09:33 PM collection.CollectionManager add
+FINE: Добавлен дракон: dfgag, id=6
+июн. 05, 2026 4:09:33 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 4:09:33 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 4:09:33 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:54924 отключился
+июн. 05, 2026 4:09:55 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:54973
+июн. 05, 2026 4:09:55 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:09:55 PM server.Server processData
+INFO: Получен запрос: add (552 байт)
+июн. 05, 2026 4:09:55 PM collection.CollectionManager add
+FINE: Добавлен дракон: fdgds, id=7
+июн. 05, 2026 4:09:55 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 4:09:55 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 4:09:55 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:54973 отключился
+июн. 05, 2026 4:10:11 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55009
+июн. 05, 2026 4:10:11 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:10:11 PM server.Server processData
+INFO: Получен запрос: help (176 байт)
+июн. 05, 2026 4:10:11 PM server.Server processRequest
+INFO: Команда 'help' выполнена, success=true
+июн. 05, 2026 4:10:11 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1441 байт)
+июн. 05, 2026 4:10:11 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55009 отключился
+июн. 05, 2026 4:10:47 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55091
+июн. 05, 2026 4:10:47 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:10:47 PM server.Server processData
+INFO: Получен запрос: update (595 байт)
+июн. 05, 2026 4:10:47 PM server.Server processRequest
+INFO: Команда 'update' выполнена, success=false
+июн. 05, 2026 4:10:47 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (220 байт)
+июн. 05, 2026 4:10:47 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55091 отключился
+июн. 05, 2026 4:10:56 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55111
+июн. 05, 2026 4:10:56 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:10:56 PM server.Server processData
+INFO: Получен запрос: head (176 байт)
+июн. 05, 2026 4:10:56 PM server.Server processRequest
+INFO: Команда 'head' выполнена, success=true
+июн. 05, 2026 4:10:56 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (488 байт)
+июн. 05, 2026 4:10:56 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55111 отключился
+июн. 05, 2026 4:11:03 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55126
+июн. 05, 2026 4:11:03 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:11:03 PM server.Server processData
+INFO: Получен запрос: show (176 байт)
+июн. 05, 2026 4:11:03 PM server.Server processRequest
+INFO: Команда 'show' выполнена, success=true
+июн. 05, 2026 4:11:03 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1692 байт)
+июн. 05, 2026 4:11:03 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55126 отключился
+июн. 05, 2026 4:11:28 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55182
+июн. 05, 2026 4:11:28 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:11:28 PM server.Server processData
+INFO: Получен запрос: print_ascending (187 байт)
+июн. 05, 2026 4:11:28 PM server.Server processRequest
+INFO: Команда 'print_ascending' выполнена, success=true
+июн. 05, 2026 4:11:28 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1687 байт)
+июн. 05, 2026 4:11:28 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55182 отключился
+июн. 05, 2026 4:11:40 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55208
+июн. 05, 2026 4:11:40 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:11:40 PM server.Server processData
+INFO: Получен запрос: help (176 байт)
+июн. 05, 2026 4:11:40 PM server.Server processRequest
+INFO: Команда 'help' выполнена, success=true
+июн. 05, 2026 4:11:40 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1441 байт)
+июн. 05, 2026 4:11:40 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55208 отключился
+июн. 05, 2026 4:11:56 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55244
+июн. 05, 2026 4:11:56 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:11:56 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 4:11:56 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 4:11:56 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (490 байт)
+июн. 05, 2026 4:11:56 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55244 отключился
+июн. 05, 2026 4:12:05 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55264
+июн. 05, 2026 4:12:05 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:12:05 PM server.Server processData
+INFO: Получен запрос: show (176 байт)
+июн. 05, 2026 4:12:05 PM server.Server processRequest
+INFO: Команда 'show' выполнена, success=true
+июн. 05, 2026 4:12:05 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1692 байт)
+июн. 05, 2026 4:12:05 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55264 отключился
+июн. 05, 2026 4:19:24 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56208
+июн. 05, 2026 4:19:24 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:19:24 PM server.Server processData
+INFO: Получен запрос: help (176 байт)
+июн. 05, 2026 4:19:24 PM server.Server processRequest
+INFO: Команда 'help' выполнена, success=true
+июн. 05, 2026 4:19:24 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1441 байт)
+июн. 05, 2026 4:19:24 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56208 отключился
+июн. 05, 2026 4:20:02 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56288
+июн. 05, 2026 4:20:02 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:20:02 PM server.Server processData
+INFO: Получен запрос: add (549 байт)
+июн. 05, 2026 4:20:02 PM collection.CollectionManager add
+FINE: Добавлен дракон: ban, id=8
+июн. 05, 2026 4:20:02 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 4:20:02 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 4:20:02 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56288 отключился
+июн. 05, 2026 4:20:20 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56328
+июн. 05, 2026 4:20:20 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:20:20 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 4:20:20 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 4:20:20 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (483 байт)
+июн. 05, 2026 4:20:20 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56328 отключился
+июн. 05, 2026 4:20:45 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56384
+июн. 05, 2026 4:20:45 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:20:45 PM server.Server processData
+INFO: Получен запрос: remove_by_id (226 байт)
+июн. 05, 2026 4:20:45 PM server.Server processRequest
+INFO: Команда 'remove_by_id' выполнена, success=true
+июн. 05, 2026 4:20:45 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (210 байт)
+июн. 05, 2026 4:20:45 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56384 отключился
+июн. 05, 2026 4:20:59 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56417
+июн. 05, 2026 4:20:59 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:20:59 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 4:20:59 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 4:20:59 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (490 байт)
+июн. 05, 2026 4:20:59 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56417 отключился
+июн. 05, 2026 4:22:27 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56607
+июн. 05, 2026 4:22:27 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:22:27 PM server.Server processData
+INFO: Получен запрос: add (561 байт)
+июн. 05, 2026 4:22:27 PM collection.CollectionManager add
+FINE: Добавлен дракон: dkfhashldfhlskd, id=9
+июн. 05, 2026 4:22:27 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 4:22:27 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 4:22:27 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56607 отключился
+июн. 05, 2026 4:22:56 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56670
+июн. 05, 2026 4:22:56 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:22:56 PM server.Server processData
+INFO: Получен запрос: add (543 байт)
+июн. 05, 2026 4:22:56 PM collection.CollectionManager add
+FINE: Добавлен дракон: f, id=10
+июн. 05, 2026 4:22:56 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 4:22:56 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 4:22:56 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56670 отключился
+июн. 05, 2026 4:23:14 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56709
+июн. 05, 2026 4:23:14 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:23:14 PM server.Server processData
+INFO: Получен запрос: add (548 байт)
+июн. 05, 2026 4:23:14 PM collection.CollectionManager add
+FINE: Добавлен дракон: f, id=11
+июн. 05, 2026 4:23:14 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 4:23:14 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 4:23:14 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56709 отключился
+июн. 05, 2026 4:23:29 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56742
+июн. 05, 2026 4:23:29 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:23:29 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 4:23:29 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 4:23:29 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (490 байт)
+июн. 05, 2026 4:23:29 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56742 отключился
+июн. 05, 2026 4:24:21 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56857
+июн. 05, 2026 4:24:21 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:24:21 PM server.Server processData
+INFO: Получен запрос: add (550 байт)
+июн. 05, 2026 4:24:21 PM collection.CollectionManager add
+FINE: Добавлен дракон: d, id=12
+июн. 05, 2026 4:24:21 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 4:24:21 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 4:24:21 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56857 отключился
+июн. 05, 2026 4:24:31 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56882
+июн. 05, 2026 4:24:31 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:24:31 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 4:24:31 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 4:24:31 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (487 байт)
+июн. 05, 2026 4:24:31 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56882 отключился
+июн. 05, 2026 4:25:07 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56960
+июн. 05, 2026 4:25:07 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:25:07 PM server.Server processData
+INFO: Получен запрос: show (176 байт)
+июн. 05, 2026 4:25:07 PM server.Server processRequest
+INFO: Команда 'show' выполнена, success=true
+июн. 05, 2026 4:25:07 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (2824 байт)
+июн. 05, 2026 4:25:07 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56960 отключился
+июн. 05, 2026 4:25:10 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:56967
+июн. 05, 2026 4:25:10 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 4:25:10 PM server.Server processData
+INFO: Получен запрос: help (176 байт)
+июн. 05, 2026 4:25:10 PM server.Server processRequest
+INFO: Команда 'help' выполнена, success=true
+июн. 05, 2026 4:25:10 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1441 байт)
+июн. 05, 2026 4:25:10 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:56967 отключился
+июн. 05, 2026 6:00:20 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:52973
+июн. 05, 2026 6:00:20 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:00:20 PM server.Server processData
+INFO: Получен запрос: help (176 байт)
+июн. 05, 2026 6:00:20 PM server.Server processRequest
+INFO: Команда 'help' выполнена, success=true
+июн. 05, 2026 6:00:20 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1441 байт)
+июн. 05, 2026 6:00:20 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:52973 отключился
+июн. 05, 2026 6:00:25 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:52984
+июн. 05, 2026 6:00:25 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:00:25 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:00:25 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:00:25 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (487 байт)
+июн. 05, 2026 6:00:25 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:52984 отключился
+июн. 05, 2026 6:00:32 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:53001
+июн. 05, 2026 6:00:32 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:00:32 PM server.Server processData
+INFO: Получен запрос: clear (177 байт)
+июн. 05, 2026 6:00:32 PM collection.CollectionManager clear
+INFO: Коллекция очищена
+июн. 05, 2026 6:00:32 PM server.Server processRequest
+INFO: Команда 'clear' выполнена, success=true
+июн. 05, 2026 6:00:32 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (229 байт)
+июн. 05, 2026 6:00:32 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:53001 отключился
+июн. 05, 2026 6:00:46 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:53031
+июн. 05, 2026 6:00:46 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:00:46 PM server.Server processData
+INFO: Получен запрос: add (551 байт)
+июн. 05, 2026 6:00:46 PM collection.CollectionManager add
+FINE: Добавлен дракон: dkfhkldsh, id=1
+июн. 05, 2026 6:00:46 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 6:00:46 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 6:00:46 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:53031 отключился
+июн. 05, 2026 6:01:08 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:53080
+июн. 05, 2026 6:01:08 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:01:08 PM server.Server processData
+INFO: Получен запрос: add (550 байт)
+июн. 05, 2026 6:01:08 PM collection.CollectionManager add
+FINE: Добавлен дракон: fsd, id=2
+июн. 05, 2026 6:01:08 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 6:01:08 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 6:01:08 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:53080 отключился
+июн. 05, 2026 6:01:17 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:53100
+июн. 05, 2026 6:01:17 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:01:17 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:01:17 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:01:17 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (478 байт)
+июн. 05, 2026 6:01:17 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:53100 отключился
+июн. 05, 2026 6:04:55 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:53573
+июн. 05, 2026 6:04:55 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:04:55 PM server.Server processData
+INFO: Получен запрос: show (176 байт)
+июн. 05, 2026 6:04:55 PM server.Server processRequest
+INFO: Команда 'show' выполнена, success=true
+июн. 05, 2026 6:04:55 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (799 байт)
+июн. 05, 2026 6:04:55 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:53573 отключился
+июн. 05, 2026 6:04:59 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:53580
+июн. 05, 2026 6:04:59 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:04:59 PM server.Server processData
+INFO: Получен запрос: help (176 байт)
+июн. 05, 2026 6:04:59 PM server.Server processRequest
+INFO: Команда 'help' выполнена, success=true
+июн. 05, 2026 6:04:59 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1441 байт)
+июн. 05, 2026 6:04:59 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:53580 отключился
+июн. 05, 2026 6:05:05 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:53594
+июн. 05, 2026 6:05:05 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:05:05 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:05:05 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:05:05 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (478 байт)
+июн. 05, 2026 6:05:05 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:53594 отключился
+июн. 05, 2026 6:05:12 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:53610
+июн. 05, 2026 6:05:12 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:05:12 PM server.Server processData
+INFO: Получен запрос: show (176 байт)
+июн. 05, 2026 6:05:12 PM server.Server processRequest
+INFO: Команда 'show' выполнена, success=true
+июн. 05, 2026 6:05:12 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (799 байт)
+июн. 05, 2026 6:05:12 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:53610 отключился
+июн. 05, 2026 6:05:45 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:53686
+июн. 05, 2026 6:05:45 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:05:45 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:05:45 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:05:45 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (478 байт)
+июн. 05, 2026 6:05:45 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:53686 отключился
+июн. 05, 2026 6:19:42 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55502
+июн. 05, 2026 6:19:42 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:19:42 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:19:42 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:19:42 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (478 байт)
+июн. 05, 2026 6:19:42 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55502 отключился
+июн. 05, 2026 6:19:49 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55518
+июн. 05, 2026 6:19:49 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:19:49 PM server.Server processData
+INFO: Получен запрос: show (176 байт)
+июн. 05, 2026 6:19:49 PM server.Server processRequest
+INFO: Команда 'show' выполнена, success=true
+июн. 05, 2026 6:19:49 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (799 байт)
+июн. 05, 2026 6:19:49 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55518 отключился
+июн. 05, 2026 6:34:50 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:57114
+июн. 05, 2026 6:34:50 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:34:50 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:34:50 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:34:50 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (478 байт)
+июн. 05, 2026 6:34:50 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:57114 отключился
+июн. 05, 2026 6:35:15 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:57180
+июн. 05, 2026 6:35:15 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:35:15 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:35:15 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:35:15 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (478 байт)
+июн. 05, 2026 6:35:15 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:57180 отключился
+июн. 05, 2026 6:44:25 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:58507
+июн. 05, 2026 6:44:25 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:44:25 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:44:25 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:44:25 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (478 байт)
+июн. 05, 2026 6:44:25 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:58507 отключился
+июн. 05, 2026 6:45:20 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:58633
+июн. 05, 2026 6:45:20 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:45:20 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:45:20 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:45:20 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (478 байт)
+июн. 05, 2026 6:45:20 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:58633 отключился
+июн. 05, 2026 6:47:05 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:58895
+июн. 05, 2026 6:47:05 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:47:05 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:47:05 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:47:05 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (478 байт)
+июн. 05, 2026 6:47:05 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:58895 отключился
+июн. 05, 2026 6:49:42 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:59266
+июн. 05, 2026 6:49:42 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:49:42 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:49:42 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:49:42 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (478 байт)
+июн. 05, 2026 6:49:42 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:59266 отключился
+июн. 05, 2026 6:53:28 PM myapp.ServerMainKt main
+INFO: Запуск серверного приложения
+июн. 05, 2026 6:53:28 PM collection.CollectionManager add
+FINE: Добавлен дракон: dgsdfg, id=2
+июн. 05, 2026 6:53:28 PM collection.CollectionManager add
+FINE: Добавлен дракон: vika, id=4
+июн. 05, 2026 6:53:28 PM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 2, следующий ID: 5
+июн. 05, 2026 6:53:28 PM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1234
+июн. 05, 2026 6:53:28 PM server.Server start
+INFO: Сервер запущен на порту 1234 и готов принимать соединения
+июн. 05, 2026 6:56:36 PM myapp.ServerMainKt main$lambda$2
+INFO: Завершение работы. Автосохранение коллекции...
+июн. 05, 2026 6:56:39 PM myapp.ServerMainKt main
+INFO: Запуск серверного приложения
+июн. 05, 2026 6:56:39 PM collection.CollectionManager add
+FINE: Добавлен дракон: dgsdfg, id=2
+июн. 05, 2026 6:56:39 PM collection.CollectionManager add
+FINE: Добавлен дракон: vika, id=4
+июн. 05, 2026 6:56:39 PM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 2, следующий ID: 5
+июн. 05, 2026 6:56:39 PM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1234
+июн. 05, 2026 6:56:39 PM server.Server start
+INFO: Сервер запущен на порту 1234 и готов принимать соединения
+июн. 05, 2026 6:56:55 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:60296
+июн. 05, 2026 6:56:55 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:56:55 PM server.Server processData
+INFO: Получен запрос: clear (177 байт)
+июн. 05, 2026 6:56:55 PM collection.CollectionManager clear
+INFO: Коллекция очищена
+июн. 05, 2026 6:56:55 PM server.Server processRequest
+INFO: Команда 'clear' выполнена, success=true
+июн. 05, 2026 6:56:55 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (229 байт)
+июн. 05, 2026 6:56:55 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:60296 отключился
+июн. 05, 2026 6:57:47 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:60410
+июн. 05, 2026 6:57:47 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:57:47 PM server.Server processData
+INFO: Получен запрос: add (547 байт)
+июн. 05, 2026 6:57:47 PM collection.CollectionManager add
+FINE: Добавлен дракон: pizda, id=1
+июн. 05, 2026 6:57:47 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 6:57:47 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 6:57:47 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:60410 отключился
+июн. 05, 2026 6:58:03 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:60449
+июн. 05, 2026 6:58:03 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:58:03 PM server.Server processData
+INFO: Получен запрос: add (548 байт)
+июн. 05, 2026 6:58:03 PM collection.CollectionManager add
+FINE: Добавлен дракон: pizdah, id=2
+июн. 05, 2026 6:58:03 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 6:58:03 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 6:58:03 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:60449 отключился
+июн. 05, 2026 6:58:13 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:60472
+июн. 05, 2026 6:58:13 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 6:58:13 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 6:58:14 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 6:58:14 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (474 байт)
+июн. 05, 2026 6:58:14 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:60472 отключился
+июн. 05, 2026 7:01:28 PM myapp.ServerMainKt main
+INFO: Запуск серверного приложения
+июн. 05, 2026 7:01:28 PM collection.CollectionManager add
+FINE: Добавлен дракон: pizda, id=1
+июн. 05, 2026 7:01:28 PM collection.CollectionManager add
+FINE: Добавлен дракон: pizdah, id=2
+июн. 05, 2026 7:01:28 PM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 2, следующий ID: 3
+июн. 05, 2026 7:01:28 PM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1235
+июн. 05, 2026 7:01:28 PM server.Server start
+INFO: Сервер запущен на порту 1235 и готов принимать соединения
+июн. 05, 2026 7:01:37 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:60967
+июн. 05, 2026 7:01:37 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:01:37 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 7:01:37 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 7:01:37 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (474 байт)
+июн. 05, 2026 7:01:37 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:60967 отключился
+июн. 05, 2026 7:01:56 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61009
+июн. 05, 2026 7:01:56 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:01:56 PM server.Server processData
+INFO: Получен запрос: add (551 байт)
+июн. 05, 2026 7:01:56 PM collection.CollectionManager add
+FINE: Добавлен дракон: gfgdfgdfg, id=3
+июн. 05, 2026 7:01:56 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 7:01:56 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 7:01:56 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61009 отключился
+июн. 05, 2026 7:02:03 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61026
+июн. 05, 2026 7:02:03 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:02:03 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 7:02:03 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 7:02:03 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (474 байт)
+июн. 05, 2026 7:02:03 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61026 отключился
+июн. 05, 2026 7:02:36 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61100
+июн. 05, 2026 7:02:36 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:02:36 PM server.Server processData
+INFO: Получен запрос: add (544 байт)
+июн. 05, 2026 7:02:36 PM collection.CollectionManager add
+FINE: Добавлен дракон: mn, id=4
+июн. 05, 2026 7:02:36 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 7:02:36 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 7:02:36 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61100 отключился
+июн. 05, 2026 7:02:42 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61115
+июн. 05, 2026 7:02:42 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:02:42 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 7:02:42 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 7:02:42 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (473 байт)
+июн. 05, 2026 7:02:42 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61115 отключился
+июн. 05, 2026 7:03:05 PM myapp.ServerMainKt main$lambda$2
+INFO: Завершение работы. Автосохранение коллекции...
+июн. 05, 2026 7:03:06 PM myapp.ServerMainKt main
+INFO: Запуск серверного приложения
+июн. 05, 2026 7:03:06 PM collection.CollectionManager add
+FINE: Добавлен дракон: pizda, id=1
+июн. 05, 2026 7:03:06 PM collection.CollectionManager add
+FINE: Добавлен дракон: pizdah, id=2
+июн. 05, 2026 7:03:06 PM collection.CollectionManager add
+FINE: Добавлен дракон: gfgdfgdfg, id=3
+июн. 05, 2026 7:03:06 PM collection.CollectionManager add
+FINE: Добавлен дракон: mn, id=4
+июн. 05, 2026 7:03:06 PM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 4, следующий ID: 5
+июн. 05, 2026 7:03:06 PM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1235
+июн. 05, 2026 7:03:06 PM server.Server start
+INFO: Сервер запущен на порту 1235 и готов принимать соединения
+июн. 05, 2026 7:03:14 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61197
+июн. 05, 2026 7:03:14 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:03:14 PM server.Server processData
+INFO: Получен запрос: clear (177 байт)
+июн. 05, 2026 7:03:14 PM collection.CollectionManager clear
+INFO: Коллекция очищена
+июн. 05, 2026 7:03:14 PM server.Server processRequest
+INFO: Команда 'clear' выполнена, success=true
+июн. 05, 2026 7:03:14 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (229 байт)
+июн. 05, 2026 7:03:14 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61197 отключился
+июн. 05, 2026 7:03:38 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61251
+июн. 05, 2026 7:03:38 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:03:38 PM server.Server processData
+INFO: Получен запрос: add (545 байт)
+июн. 05, 2026 7:03:38 PM collection.CollectionManager add
+FINE: Добавлен дракон: mna, id=1
+июн. 05, 2026 7:03:38 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 7:03:38 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 7:03:38 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61251 отключился
+июн. 05, 2026 7:04:02 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61311
+июн. 05, 2026 7:04:02 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:04:02 PM server.Server processData
+INFO: Получен запрос: add (544 байт)
+июн. 05, 2026 7:04:02 PM collection.CollectionManager add
+FINE: Добавлен дракон: ma, id=2
+июн. 05, 2026 7:04:02 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 7:04:02 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 7:04:02 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61311 отключился
+июн. 05, 2026 7:04:07 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61323
+июн. 05, 2026 7:04:07 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:04:07 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 7:04:07 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 7:04:07 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (472 байт)
+июн. 05, 2026 7:04:07 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61323 отключился
+июн. 05, 2026 7:05:18 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61493
+июн. 05, 2026 7:05:18 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:05:18 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 7:05:18 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 7:05:18 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (472 байт)
+июн. 05, 2026 7:05:18 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61493 отключился
+июн. 05, 2026 7:05:54 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61577
+июн. 05, 2026 7:05:54 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:05:54 PM server.Server processData
+INFO: Получен запрос: add (544 байт)
+июн. 05, 2026 7:05:54 PM collection.CollectionManager add
+FINE: Добавлен дракон: ma, id=3
+июн. 05, 2026 7:05:54 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 7:05:54 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 7:05:54 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61577 отключился
+июн. 05, 2026 7:06:00 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61591
+июн. 05, 2026 7:06:00 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:06:00 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 7:06:00 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 7:06:00 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (472 байт)
+июн. 05, 2026 7:06:00 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61591 отключился
+июн. 05, 2026 7:06:44 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61695
+июн. 05, 2026 7:06:44 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:06:44 PM server.Server processData
+INFO: Получен запрос: add (546 байт)
+июн. 05, 2026 7:06:44 PM collection.CollectionManager add
+FINE: Добавлен дракон: ma, id=4
+июн. 05, 2026 7:06:44 PM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 05, 2026 7:06:44 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 05, 2026 7:06:44 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61695 отключился
+июн. 05, 2026 7:06:49 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:61708
+июн. 05, 2026 7:06:49 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 05, 2026 7:06:49 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 05, 2026 7:06:49 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 05, 2026 7:06:49 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (472 байт)
+июн. 05, 2026 7:06:49 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:61708 отключился
+июн. 05, 2026 7:07:04 PM myapp.ServerMainKt main$lambda$2
+INFO: Завершение работы. Автосохранение коллекции...
+июн. 12, 2026 7:22:45 PM myapp.ServerMainKt main
+INFO: Запуск серверного приложения
+июн. 12, 2026 7:22:45 PM collection.CollectionManager add
+FINE: Добавлен дракон: mna, id=1
+июн. 12, 2026 7:22:45 PM collection.CollectionManager add
+FINE: Добавлен дракон: ma, id=2
+июн. 12, 2026 7:22:45 PM collection.CollectionManager add
+FINE: Добавлен дракон: ma, id=3
+июн. 12, 2026 7:22:45 PM collection.CollectionManager add
+FINE: Добавлен дракон: ma, id=4
+июн. 12, 2026 7:22:45 PM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 4, следующий ID: 5
+июн. 12, 2026 7:22:45 PM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1235
+июн. 12, 2026 7:22:45 PM server.Server start
+INFO: Сервер запущен на порту 1235 и готов принимать соединения
+июн. 12, 2026 7:24:43 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:57496
+июн. 12, 2026 7:24:43 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 12, 2026 7:24:43 PM server.Server processData
+INFO: Получен запрос: clear (177 байт)
+июн. 12, 2026 7:24:43 PM collection.CollectionManager clear
+INFO: Коллекция очищена
+июн. 12, 2026 7:24:43 PM server.Server processRequest
+INFO: Команда 'clear' выполнена, success=true
+июн. 12, 2026 7:24:43 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (229 байт)
+июн. 12, 2026 7:24:43 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:57496 отключился
+июн. 12, 2026 7:34:09 PM myapp.ServerMainKt main$lambda$2
+INFO: Завершение работы. Автосохранение коллекции...
+июн. 13, 2026 4:49:52 AM myapp.ServerMainKt main
+INFO: Запуск серверного приложения
+июн. 13, 2026 4:49:52 AM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 0, следующий ID: 1
+июн. 13, 2026 4:49:52 AM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1235
+июн. 13, 2026 4:49:52 AM server.Server start
+INFO: Сервер запущен на порту 1235 и готов принимать соединения
+июн. 13, 2026 4:50:39 AM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55331
+июн. 13, 2026 4:50:39 AM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 13, 2026 4:50:39 AM server.Server processData
+INFO: Получен запрос: add (552 байт)
+июн. 13, 2026 4:50:39 AM collection.CollectionManager add
+FINE: Добавлен дракон: ffff, id=1
+июн. 13, 2026 4:50:39 AM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 13, 2026 4:50:39 AM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 13, 2026 4:50:39 AM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55331 отключился
+июн. 13, 2026 4:51:04 AM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55391
+июн. 13, 2026 4:51:04 AM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 13, 2026 4:51:04 AM server.Server processData
+INFO: Получен запрос: add (560 байт)
+июн. 13, 2026 4:51:04 AM collection.CollectionManager add
+FINE: Добавлен дракон: fgewrgwerg, id=2
+июн. 13, 2026 4:51:04 AM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 13, 2026 4:51:04 AM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 13, 2026 4:51:04 AM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55391 отключился
+июн. 13, 2026 4:51:13 AM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55412
+июн. 13, 2026 4:51:13 AM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 13, 2026 4:51:13 AM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 13, 2026 4:51:13 AM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 13, 2026 4:51:13 AM server.Server sendResponse
+INFO: Ответ отправлен клиенту (482 байт)
+июн. 13, 2026 4:51:13 AM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55412 отключился
+июн. 13, 2026 4:51:57 AM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55513
+июн. 13, 2026 4:51:57 AM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 13, 2026 4:51:57 AM server.Server processData
+INFO: Получен запрос: add (549 байт)
+июн. 13, 2026 4:51:57 AM collection.CollectionManager add
+FINE: Добавлен дракон: sdg, id=3
+июн. 13, 2026 4:51:57 AM server.Server processRequest
+INFO: Команда 'add' выполнена, success=true
+июн. 13, 2026 4:51:57 AM server.Server sendResponse
+INFO: Ответ отправлен клиенту (145 байт)
+июн. 13, 2026 4:51:57 AM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55513 отключился
+июн. 13, 2026 4:52:06 AM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:55532
+июн. 13, 2026 4:52:06 AM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 13, 2026 4:52:06 AM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 13, 2026 4:52:06 AM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 13, 2026 4:52:06 AM server.Server sendResponse
+INFO: Ответ отправлен клиенту (488 байт)
+июн. 13, 2026 4:52:06 AM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:55532 отключился
+июн. 13, 2026 4:52:18 AM myapp.ServerMainKt main$lambda$2
+INFO: Завершение работы. Автосохранение коллекции...
+июн. 13, 2026 4:53:21 AM myapp.ServerMainKt main
+INFO: Запуск серверного приложения
+июн. 13, 2026 4:53:21 AM collection.CollectionManager add
+FINE: Добавлен дракон: ffff, id=1
+июн. 13, 2026 4:53:21 AM collection.CollectionManager add
+FINE: Добавлен дракон: fgewrgwerg, id=2
+июн. 13, 2026 4:53:21 AM collection.CollectionManager add
+FINE: Добавлен дракон: sdg, id=3
+июн. 13, 2026 4:53:21 AM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 3, следующий ID: 4
+июн. 13, 2026 4:53:21 AM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1235
+июн. 13, 2026 4:53:21 AM server.Server start
+INFO: Сервер запущен на порту 1235 и готов принимать соединения
+июн. 13, 2026 4:53:27 AM myapp.ServerMainKt main
+INFO: Запуск серверного приложения
+июн. 13, 2026 4:53:27 AM collection.CollectionManager add
+FINE: Добавлен дракон: ffff, id=1
+июн. 13, 2026 4:53:27 AM collection.CollectionManager add
+FINE: Добавлен дракон: fgewrgwerg, id=2
+июн. 13, 2026 4:53:27 AM collection.CollectionManager add
+FINE: Добавлен дракон: sdg, id=3
+июн. 13, 2026 4:53:27 AM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 3, следующий ID: 4
+июн. 13, 2026 4:53:27 AM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1235
+июн. 13, 2026 4:53:27 AM server.Server start
+INFO: Сервер запущен на порту 1235 и готов принимать соединения
+июн. 13, 2026 3:20:14 PM myapp.ServerMainKt main
+INFO: Запуск серверного приложения
+июн. 13, 2026 3:20:14 PM collection.CollectionManager add
+FINE: Добавлен дракон: ffff, id=1
+июн. 13, 2026 3:20:14 PM collection.CollectionManager add
+FINE: Добавлен дракон: fgewrgwerg, id=2
+июн. 13, 2026 3:20:14 PM collection.CollectionManager add
+FINE: Добавлен дракон: sdg, id=3
+июн. 13, 2026 3:20:14 PM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 3, следующий ID: 4
+июн. 13, 2026 3:20:14 PM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1235
+июн. 13, 2026 3:20:14 PM server.Server start
+INFO: Сервер запущен на порту 1235 и готов принимать соединения
+июн. 13, 2026 3:20:24 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:51537
+июн. 13, 2026 3:20:24 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 13, 2026 3:20:24 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 13, 2026 3:20:24 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 13, 2026 3:20:24 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (488 байт)
+июн. 13, 2026 3:20:24 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:51537 отключился
+июн. 13, 2026 3:20:27 PM myapp.ServerMainKt main$lambda$2
+INFO: Завершение работы. Автосохранение коллекции...
+июн. 13, 2026 5:27:08 PM myapp.ServerMainKt main
+INFO: Запуск серверного приложения
+июн. 13, 2026 5:27:08 PM collection.CollectionManager add
+FINE: Добавлен дракон: ffff, id=1
+июн. 13, 2026 5:27:08 PM collection.CollectionManager add
+FINE: Добавлен дракон: fgewrgwerg, id=2
+июн. 13, 2026 5:27:08 PM collection.CollectionManager add
+FINE: Добавлен дракон: sdg, id=3
+июн. 13, 2026 5:27:08 PM myapp.ServerMainKt main
+INFO: Коллекция загружена. Элементов: 3, следующий ID: 4
+июн. 13, 2026 5:27:08 PM myapp.ServerMainKt main
+INFO: Запуск прослушивания на порту 1235
+июн. 13, 2026 5:27:08 PM server.Server start
+INFO: Сервер запущен на порту 1235 и готов принимать соединения
+июн. 13, 2026 5:27:20 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:60636
+июн. 13, 2026 5:27:20 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 13, 2026 5:27:20 PM server.Server processData
+INFO: Получен запрос: show (176 байт)
+июн. 13, 2026 5:27:20 PM server.Server processRequest
+INFO: Команда 'show' выполнена, success=true
+июн. 13, 2026 5:27:20 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (1104 байт)
+июн. 13, 2026 5:27:20 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:60636 отключился
+июн. 13, 2026 5:27:31 PM server.Server acceptConnection
+INFO: Новое подключение от /127.0.0.1:60660
+июн. 13, 2026 5:27:31 PM java.io.ObjectInputFilter$Config traceFilter
+FINER: Builtin factory: null -> new: null
+июн. 13, 2026 5:27:31 PM server.Server processData
+INFO: Получен запрос: min_by_name (183 байт)
+июн. 13, 2026 5:27:31 PM server.Server processRequest
+INFO: Команда 'min_by_name' выполнена, success=true
+июн. 13, 2026 5:27:31 PM server.Server sendResponse
+INFO: Ответ отправлен клиенту (488 байт)
+июн. 13, 2026 5:27:31 PM server.Server handleClientRequest
+INFO: Клиент /127.0.0.1:60660 отключился
+июн. 13, 2026 5:28:54 PM myapp.ServerMainKt main$lambda$2
+INFO: Завершение работы. Автосохранение коллекции...
